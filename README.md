@@ -1,1 +1,2 @@
 # muzik-uygulamasi
+müzikler telifsizdir
